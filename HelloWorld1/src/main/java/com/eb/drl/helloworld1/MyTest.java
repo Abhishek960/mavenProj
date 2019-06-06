@@ -13,7 +13,7 @@ public class MyTest {
     
     public static void main(String[] args) {
         
-        
+	System.out.print(" My 1st Automatic Java maven App via Jenkins !!!");        
         System.out.println("Enter into Main Java App.");
     }
     
